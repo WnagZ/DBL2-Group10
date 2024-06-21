@@ -14,6 +14,8 @@ For this project, we made use of data from the Metropolitan Police. These are av
 
 With the downloaded datafiles, run the notebooks in the DataCreation folder to get the correct data.
 
+To get the correct PAS data, run the PAS_preprocessing and PAS_granual notebooks to get the correct dataframe.
+
 ### Tableau Dashboard
 The dashboard can be accessed with the following link: https://public.tableau.com/app/profile/rob.borsboom/viz/trustandconfidence/Dashboard
 
@@ -27,4 +29,4 @@ The project used the following models:
 - XGBoost
 - Multinominal logistic Regression
 
-The files needed to run the models is located in the Models folder. You need the data provided in the gathering data folder to run the models.
+The files needed to run the models is located in the Models folder. You need the data mentioned in the gathering data section to run the models.
